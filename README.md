@@ -1,8 +1,8 @@
 [![CircleCI](https://circleci.com/gh/shionit/try-flutter.svg?style=svg)](https://circleci.com/gh/shionit/try-flutter)
 
-# try-flutter
+# sample_flutter
 
-A new Flutter application.
+A new Flutter application sample.
 
 ## Getting Started
 
