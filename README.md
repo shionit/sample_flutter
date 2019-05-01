@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/shionit/try-flutter.svg?style=svg)](https://circleci.com/gh/shionit/try-flutter)
+[![CircleCI](https://circleci.com/gh/shionit/sample_flutter.svg?style=svg)](https://circleci.com/gh/shionit/sample_flutter)
 
 # sample_flutter
 
